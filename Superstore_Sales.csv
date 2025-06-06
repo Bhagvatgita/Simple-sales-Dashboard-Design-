@@ -1,0 +1,21 @@
+Order Date,Region,Category,Sales,Profit
+2021-01-01,East,Furniture,250,50
+2021-01-16,West,Technology,500,150
+2021-01-31,Central,Office Supplies,300,80
+2021-02-15,South,Furniture,450,120
+2021-03-02,East,Technology,700,200
+2021-03-17,West,Furniture,220,40
+2021-04-01,Central,Technology,480,130
+2021-04-16,South,Office Supplies,330,90
+2021-05-01,East,Furniture,410,110
+2021-05-16,West,Technology,650,190
+2021-05-31,Central,Furniture,270,60
+2021-06-15,South,Technology,510,140
+2021-06-30,East,Office Supplies,320,70
+2021-07-15,West,Furniture,470,100
+2021-07-30,Central,Technology,690,180
+2021-08-14,South,Furniture,260,55
+2021-08-29,East,Technology,490,125
+2021-09-13,West,Office Supplies,310,85
+2021-09-28,Central,Furniture,460,115
+2021-10-13,South,Technology,720,195
